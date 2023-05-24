@@ -1,5 +1,8 @@
 # Sobre mim 🖐
 
+<img align="center" alt="Html5" width="150" height="200" src="https://media3.giphy.com/media/WqWYR7ZDiUIRHqb7XM/giphy.gif"/>
+
+
 🎓 &#10143; Estudante de Engenharia de Software na Catolica SC
 
 👀 &#10143; Uma curiosidade sobre mim: sou completamente apaixonado por carros e games!
