@@ -1,12 +1,12 @@
 # Sobre mim 🖐
 
-🎓 Estudante de Engenharia de Software na Catolica SC
+🎓 &#10143; Estudante de Engenharia de Software na Catolica SC
 
-👀 Uma curiosidade sobre mim: sou completamente apaixonado por carros e games!
+👀 &#10143; Uma curiosidade sobre mim: sou completamente apaixonado por carros e games!
 
-🚗 Como hobby gosto de viajar, jogar e praticar esportes.
+🚗 &#10143; Como hobby gosto de viajar, jogar e praticar esportes.
 
-⚠️ Gosto muito de desafios, pois tenho uma grande vontade de aprender
+⚠️ &#10143; Gosto muito de desafios, pois tenho uma grande vontade de aprender
 
 
 # Linguagens e Ferramentas ⚙️
