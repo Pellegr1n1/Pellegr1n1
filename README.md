@@ -1,6 +1,6 @@
 # Sobre mim 🖐
 
-<img align="center" alt="Html5" style="display: block; margin: 0 auto;" width="150" height="200" src="https://media3.giphy.com/media/WqWYR7ZDiUIRHqb7XM/giphy.gif"/>
+<img align="center" alt="Html5" width="150" height="200" src="https://media3.giphy.com/media/WqWYR7ZDiUIRHqb7XM/giphy.gif"/>
 
 
 🎓 &#10143; Estudante de Engenharia de Software na Catolica SC
