@@ -16,7 +16,7 @@
 Algumas das linguagens que aprendi na faculdade até o momento:
 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,cpp,cs,js,nodejs,mysql,firebase,unity,flutter,dart&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,cpp,cs,js,nodejs,mysql,firebase,unity,flutter,react,dart&theme=dark)
 
 <br/>
 
